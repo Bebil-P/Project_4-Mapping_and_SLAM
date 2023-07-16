@@ -6,6 +6,8 @@ For this project we will be using the rtabmap_ros package, which is a ROS wrappe
 
 This project is built upon the previous localization project. This project has an additional element of an RGB-D camera.
 
+## Tree.
+
 
 ## 3D map generated using RTAB-Map
 
