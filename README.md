@@ -10,7 +10,7 @@ This project is built upon the previous localization project. This project has a
 
 
 ## 3D map generated using RTAB-Map
-Please also refer to this [wiki ros page](http://wiki.ros.org/rtabmap_ros/Tutorials/Advanced%20Parameter%20Tuning) to get help better tune the parameter and better performance.
+Please also refer to this [wiki ros page](http://wiki.ros.org/rtabmap_ros/Tutorials/Advanced%20Parameter%20Tuning) to get help better tune the parameter and performance.
 
 ![image](https://github.com/Bebil-P/Project_4-Mapping-and-SLAM/assets/109389468/13e69cfe-1827-4dab-86e4-10e7dd13eb1e)
 
