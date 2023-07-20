@@ -16,5 +16,6 @@ Please also refer to this [wiki ros page](http://wiki.ros.org/rtabmap_ros/Tutori
 
 ![image](https://github.com/Bebil-P/Project_4-Mapping-and-SLAM/assets/109389468/cea380a3-1f8a-487f-a917-abadb058c530)
 
+Other mapping techniques used in the robotics field - [geeksforgeeks page](https://www.geeksforgeeks.org/mapping-techniques-in-artificial-intelligence-and-robotics) 
 
 TBC
