@@ -1,4 +1,4 @@
-# Project_4-Mapping-and-SLAM
+# Project_4-Mapping_and_SLAM
  
 In this project I have created a 2D occupancy grid and 3D octomap from a simulated environment using the robot with the RTAB-Map package. RTAB-Map (Real-Time Appearance-Based Mapping) is a popular solution for SLAM to develop robots that can map environments in 3D. RTAB-Map has good speed and memory management, and it provides custom developed tools for information analysis. Most importantly, the quality of the documentation on ROS Wiki (http://wiki.ros.org/rtabmap_ros) is very high. 
 
