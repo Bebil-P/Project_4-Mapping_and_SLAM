@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<launch>
+
+ 
+  <!-- Send fake joint values-->
+  <node  pkg= "teleop_twist_keyboard"  type="teleop_twist_keyboard.py" name = "teleop" output = "screen">
+  
+  </node>
+
+ 
+
+
+</launch>
